@@ -12,7 +12,7 @@ I am a self-taught cybersecurity enthusiast with hands-on experience in network 
 - Packet Analysis (Wireshark)
 - Man-in-the-Middle Attacks (ARP Spoofing, DNS Spoofing)
 - Exploitation (Metasploit Framework)
-- Operating Systems: Kali Linux, Windows 11, Metaploitable 2
+- Operating Systems: Kali Linux, Windows 11, Metapsloitable 2
 
 ## 🧪 Practical Experience
 - Performed network scanning and service enumeration using Nmap  
