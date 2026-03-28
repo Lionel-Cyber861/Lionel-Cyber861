@@ -25,6 +25,22 @@ I am a self-taught cybersecurity enthusiast with hands-on experience in network 
 - 🔍 Network Scan with Nmap
 - More Projects are in Progress
 
+---
+
+## 📜 Certifications
+
+* Ethical Hacking Certificate (Udemy)
+* (Coming Soon) CompTIA Security+
+
+---
+
+## 🚀 Goals
+
+* Pass CompTIA Security+
+* Build real-world cybersecurity projects
+* Start a career in cybersecurity
+
+---
 
 - ⚡ Fun fact: Identical twins don't have the same fingerprints
 
