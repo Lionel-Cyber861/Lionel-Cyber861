@@ -1,6 +1,6 @@
 ## Hi, I'm Lionel 👋
 
-🔐 Aspiring Cybersecurity Professional  
+🔐 Cybersecurity Enthusiast  
 🎓 Currently preparing for CompTIA Security+  
 📜 Certified in Ethical Hacking (Udemy)  
 
