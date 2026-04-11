@@ -1,6 +1,6 @@
 ## Hi, I'm Lionel 👋
 
-🔐 Aspiring Cybersecurity Professional from Cameroon  
+🔐 Aspiring Cybersecurity Professional  
 🎓 Currently preparing for CompTIA Security+  
 📜 Certified in Ethical Hacking (Udemy)  
 
