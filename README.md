@@ -2,7 +2,7 @@
 
 🔐 Cybersecurity Enthusiast  
 🎓 Currently preparing for CompTIA Security+  
-📜 Certified in Ethical Hacking (Udemy)  
+📜 Ethical Hacking Certificate (Udemy)  
 
 ## 🧠 About Me
 I am a self-taught cybersecurity enthusiast with hands-on experience in network security, penetration testing, and vulnerability analysis. I have worked with industry-standard tools to simulate real-world attacks and understand system weaknesses.
