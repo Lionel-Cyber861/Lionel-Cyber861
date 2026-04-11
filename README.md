@@ -23,7 +23,7 @@ I am a self-taught cybersecurity enthusiast with hands-on experience in network 
 
 ## 📂 Projects
 - 🔍 Network Scan with Nmap
-- More Projects are in Progress
+- More Projects in progress
 
 ---
 
